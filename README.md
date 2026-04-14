@@ -94,3 +94,5 @@ GET	/students/:id	Get student
 Method	Endpoint	Description
 POST	/attendants	Create attendant
 GET	/attendants	Get all attendants
+=======
+
